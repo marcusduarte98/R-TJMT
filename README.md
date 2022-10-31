@@ -4,5 +4,5 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-Testando GIT no Rstudio
+Testando GIT no Rstudio..
 
