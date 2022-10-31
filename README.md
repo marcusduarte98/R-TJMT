@@ -4,5 +4,5 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-Testando GIT no Rstudio..
+Repositório para guardar script em R
 
